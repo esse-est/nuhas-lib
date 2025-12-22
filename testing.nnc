@@ -1,0 +1,7 @@
+
+//
+foo=$255
+foo=(foo+foo)
+
+bar=foo*$2
+//noo=100

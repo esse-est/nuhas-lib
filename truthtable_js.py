@@ -38,4 +38,3 @@ def exec_truth_table(path):
         else:
             print(False)
 
-exec_truth_table("default_tt.json")
